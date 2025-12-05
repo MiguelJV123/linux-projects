@@ -1,0 +1,2 @@
+https://example.com/file1.pdf
+https://example.com/image.png
